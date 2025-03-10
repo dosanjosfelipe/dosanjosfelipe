@@ -1,8 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=felipedosanjos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Felipe&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Felipe dos Anjos!
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false" alt="Github Stats">
 
 <p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 <p>
