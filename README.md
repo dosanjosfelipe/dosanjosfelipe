@@ -3,11 +3,7 @@
 
 ### Olá, meu nome é Felipe dos Anjos! 👋🏽
 
-<img
-align="right"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedosanjos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-alt="Github Stats"
-/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
     Atualmente sou estudante de Ciência da computação, e sou desenvolvedor Backend.
