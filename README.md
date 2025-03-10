@@ -1,9 +1,7 @@
  
 
 
-### Olá, meu nome é Felipe dos Anjos!
-
-<p>Atualmente sou estudante de Ciência da computação, e sou desenvolvedor Backend.</p>
+### Olá, meu nome é Felipe dos Anjos! 👋🏽
 
 <img
 align="right"
