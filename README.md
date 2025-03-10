@@ -7,7 +7,7 @@ alt="Github Stats"
 
 ### Olá, meu nome é Felipe dos Anjos!
 
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Atualmente sou estudante de Ciência da computação, e sou desenvolvedor Backend</p>
 <p>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/feh.xqzz/" alt="Instagram"/>
