@@ -40,13 +40,14 @@ Me chamo Felipe dos Anjos, tenho 18 anos e sou natural de São Paulo. Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+
 <img 
     align="left" 
-    alt="hibernate" 
-    title="hibernate"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
@@ -105,14 +106,6 @@ Me chamo Felipe dos Anjos, tenho 18 anos e sou natural de São Paulo. Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -122,18 +115,10 @@ Me chamo Felipe dos Anjos, tenho 18 anos e sou natural de São Paulo. Atualmente
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dosanjosfelipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Top Langs" 
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosanjosfelipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosanjosfelipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
