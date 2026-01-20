@@ -2,7 +2,7 @@
 
 **`Desenvolvedor backend/fullstack`**
 
-Me chamo Felipe dos Anjos, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando ciências da computação na Universidade Paulista.
+Me chamo Felipe dos Anjos, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando ciências da computação.
 
 ### 🤖 Linguagens e Tecnologias
 
