@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Felipe dos Anjos
 
-**`Desenvolvedor backend/fullstack`**
+**`Desenvolvedor Java backend`**
 
 Me chamo Felipe dos Anjos, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando ciências da computação.
 
