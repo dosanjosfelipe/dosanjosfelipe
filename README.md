@@ -114,6 +114,17 @@ Estudante de Ciência da Computação, com foco em Engenharia de Dados. Possui i
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
+          
+
 <img 
     align="left" 
     alt="Git" 
@@ -131,24 +142,3 @@ Estudante de Ciência da Computação, com foco em Engenharia de Dados. Possui i
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-
-<br/>
-<br/>
-
-
-### 📊 Estatísticas
-
-<div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=dosanjosfelipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosanjosfelipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
