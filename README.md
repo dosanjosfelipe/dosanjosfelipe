@@ -53,15 +53,6 @@ Estudante de Ciência da Computação, com foco em Engenharia de Dados. Possui i
 
 <img 
     align="left" 
-    alt="Apache Spark" 
-    title="Apache Spark"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="Apache Airflow" 
     title="Apache Airflow"
     width="30px" 
@@ -85,15 +76,6 @@ Estudante de Ciência da Computação, com foco em Engenharia de Dados. Possui i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="OracleDB" 
-    title="OracleDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 
 <img 
